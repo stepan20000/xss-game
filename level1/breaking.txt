@@ -1,0 +1,6 @@
+<script>alert('my alert')</script>
+
+</script><script>alert('my alert')</script>
+
+
+<img src="wrong url" onerror="alert('my alert')">
