@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="https://xss-game.appspot.com/static/game-frame-styles.css" />
 
 
-    <script src="https://stepan20000.github.io/xss-game/level6/gadget.js"></script>
     <script>
     function setInnerText(element, value) {
       if (element.innerText) {
@@ -43,7 +42,7 @@
     }
  
     // Take the value after # and use it as the gadget filename.
-    function getGadgetName() { 
+    function getGadgetName() {
       return window.location.hash.substr(1) || "/gadget.js";
     }
  

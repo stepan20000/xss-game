@@ -1,0 +1,1 @@
+htTps://stepan20000.github.io/xss-game/level6/gadget.js
